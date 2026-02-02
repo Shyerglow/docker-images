@@ -1,2 +1,2 @@
 alpine:3.18
-ollama/ollama:0.15.4
+ollama:0.15.4
