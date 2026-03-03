@@ -3,4 +3,7 @@
 # rancher/local-path-provisioner:v0.0.34
 # rancher/mirrored-metrics-server:v0.8.1
 
-rancher/klipper-helm:v0.9.14-build20260210
+# rancher/klipper-helm:v0.9.14-build20260210
+
+rancher/klipper-lb:v0.4.14
+rancher/mirrored-library-traefik:3.6.7
