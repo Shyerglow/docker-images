@@ -8,4 +8,6 @@
 # rancher/klipper-lb:v0.4.14
 # rancher/mirrored-library-traefik:3.6.7
 
-rancher/mirrored-library-busybox:1.37.0
+# rancher/mirrored-library-busybox:1.37.0
+
+ollama/ollama:0.17.6
