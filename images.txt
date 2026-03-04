@@ -5,5 +5,7 @@
 
 # rancher/klipper-helm:v0.9.14-build20260210
 
-rancher/klipper-lb:v0.4.14
-rancher/mirrored-library-traefik:3.6.7
+# rancher/klipper-lb:v0.4.14
+# rancher/mirrored-library-traefik:3.6.7
+
+rancher/mirrored-library-busybox:1.37.0
