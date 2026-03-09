@@ -10,4 +10,6 @@
 
 # rancher/mirrored-library-busybox:1.37.0
 
-ollama/ollama:0.17.6
+# ollama/ollama:0.17.6
+
+neo4j:trixie
