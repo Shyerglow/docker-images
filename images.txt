@@ -12,4 +12,7 @@
 
 # ollama/ollama:0.17.6
 
-neo4j:trixie
+# neo4j:trixie
+
+ gitlab/gitlab-ce:18.9.1-ce.0
+ jenkins/jenkins:2.554
